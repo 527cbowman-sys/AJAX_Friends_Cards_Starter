@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Evie",
+        "relationship": "Friend",
+        "detail": "Enjoys making websites",
+        "hobbies": "Coding, Music, Dancing"
+    },
+    {
+        "name": "Lexi",
+        "relationship": "Best Friend",
+        "detail": "Studies really hard",
+        "hobbies": "Dancing, Baking, Shopping"
+    },
+    {
+        "name": "Sophia",
+        "relationship": "Friend",
+        "detail": "Good at giving advice",
+        "hobbies": "Dancing, Sleeping, Shopping"
+    },
+    {
+        "name": "Sam",
+        "relationship": "Friend",
+        "detail": "Very caring",
+        "hobbies": "Dancing, Hanging out with friends, Shopping"
+    },
+    {
+        "name": "Olivia",
+        "relationship": "Friend",
+        "detail": "Very funny",
+        "hobbies": "Dancing, Music, Eating"
+    },
+    {
+        "name": "Alyssa",
+        "relationship": "Frenemy",
+        "detail": "Very funny",
+        "hobbies": "Dancing, Eating, Baking"
+    }
+]
