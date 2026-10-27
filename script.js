@@ -79,10 +79,10 @@ function renderFriends(friends) {
     <article class="card h-100">
       <div class="card-body">
         <h2 class="card-title h4">${friend.name}</h2>
-        <p class="relationship">${friend.relationship}</p>
-        <p></p>
-        <p class="hobbies"><strong>Hobbies:</strong> [HOBBIES]</p>
-      </div>
+        <p class="relationship">Relationship: ${friend.relationship}</p>
+        <p class="detail">Detail: ${friend.detail}</p>
+        <p class="hobbies">Hobbies: ${friend.hobbies}</p>
+        </div>
     </article>
   </div>`})
 
